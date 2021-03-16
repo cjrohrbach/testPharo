@@ -13,3 +13,8 @@ TestPharoGit >> testGit [
 TestPharoGit >> testGit2 [
  ^ 'hello from git'
 ]
+
+{ #category : #accessing }
+TestPharoGit >> testGit3 [
+	^ 'hello abc'
+]
