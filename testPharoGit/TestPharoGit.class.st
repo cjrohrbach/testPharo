@@ -8,3 +8,8 @@ Class {
 TestPharoGit >> testGit [
 	^ 'abc'
 ]
+
+{ #category : #tests }
+TestPharoGit >> testGit2 [
+ ^ 'hello from git'
+]
